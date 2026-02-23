@@ -11,8 +11,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working "Remotely".
-- 🌱 I am currently a full time student at Microverse, learning Full Stack Web Development . I like collaborating with others to build web applications that solve real-world problems.
-- 👯 I’m on the look out for new opportunities and collaborations.
+- 🌱 I am currently building my startup Homtutor Inc. I like collaborating with others to build web applications that solve real-world problems.
+- 👯 I’m always on the look out for new opportunities and collaborations.
 - 💬 Ask me about Programming, digital marketing and Music
 - 📫 How to reach me: danielyerimah@yahoo.com
 - 😄 Pronouns: HE/HIM
